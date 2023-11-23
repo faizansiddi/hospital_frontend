@@ -1,29 +1,15 @@
 {
   "files": {
-    "main.css": "/hospital_frontend/static/css/main.5fb3c725.css",
-    "main.js": "/hospital_frontend/static/js/main.0f955a65.js",
+    "main.css": "/hospital_frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/hospital_frontend/static/js/main.68952ef3.js",
     "static/js/787.5e9107db.chunk.js": "/hospital_frontend/static/js/787.5e9107db.chunk.js",
-    "static/media/first.png": "/hospital_frontend/static/media/first.3221167fc75754cf55c2.png",
-    "static/media/second.png": "/hospital_frontend/static/media/second.107ca0047869690181e4.png",
-    "static/media/four.png": "/hospital_frontend/static/media/four.2c49c5f606284280dfb1.png",
-    "static/media/eight.jpg": "/hospital_frontend/static/media/eight.5b928ddf694235a16f3d.jpg",
-    "static/media/eveven.jpg": "/hospital_frontend/static/media/eveven.0f1718e99ce77be42e2f.jpg",
-    "static/media/tenth.png": "/hospital_frontend/static/media/tenth.f9c7bb862ba8b2fa01e8.png",
-    "static/media/third.png": "/hospital_frontend/static/media/third.02a02be09bfa386aa313.png",
-    "static/media/sixth.png": "/hospital_frontend/static/media/sixth.f30cbee51489015eed8f.png",
-    "static/media/card.png": "/hospital_frontend/static/media/card.ce8754f7d8dfaba5c7e4.png",
-    "static/media/ambulance.png": "/hospital_frontend/static/media/ambulance.27c30a1f4c25a443133d.png",
-    "static/media/twelve.jpg": "/hospital_frontend/static/media/twelve.d5f2b30974cda0ea7dca.jpg",
-    "static/media/nine.png": "/hospital_frontend/static/media/nine.31068ebc722d29d9e63c.png",
-    "static/media/fifth.png": "/hospital_frontend/static/media/fifth.eee47e8bab3d07dd072d.png",
     "index.html": "/hospital_frontend/index.html",
-    "static/media/logo.svg": "/hospital_frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "main.5fb3c725.css.map": "/hospital_frontend/static/css/main.5fb3c725.css.map",
-    "main.0f955a65.js.map": "/hospital_frontend/static/js/main.0f955a65.js.map",
+    "main.e6c13ad2.css.map": "/hospital_frontend/static/css/main.e6c13ad2.css.map",
+    "main.68952ef3.js.map": "/hospital_frontend/static/js/main.68952ef3.js.map",
     "787.5e9107db.chunk.js.map": "/hospital_frontend/static/js/787.5e9107db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fb3c725.css",
-    "static/js/main.0f955a65.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.68952ef3.js"
   ]
 }
